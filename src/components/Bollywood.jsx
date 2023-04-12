@@ -15,10 +15,10 @@ export default function Bollywood() {
                   <img src="https://imgeng.jagran.com/images/2022/dec/tunisha%20sharma1672119457804.jpg" className="card-img abcde" alt="..." />
                 </div>
                 <div className="col-md-8">
-                  <div class="card-body">
-                    <h5 class="card-title">Bollywood News LIVE: TV Actress Tunisha Sharma's Last Rites To Be Performed At 3 pm</h5>
-                    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                    <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                  <div className="card-body">
+                    <h5 className="card-title">Bollywood News LIVE: TV Actress Tunisha Sharma's Last Rites To Be Performed At 3 pm</h5>
+                    <p className="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                    <p className="card-text"><small className="text-muted">Last updated 3 mins ago</small></p>
                   </div>
                 </div>
               </div>
@@ -33,7 +33,7 @@ export default function Bollywood() {
                   <div className="card-body">
                     <h5 className="card-title">Sushant Singh Rajput's Fans Demand Justice After Mortuary Attendant Present At Autopsy Claims He Was Murdered</h5>
                     <p className="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                    <p className="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                    <p className="card-text"><small className="text-muted">Last updated 3 mins ago</small></p>
                   </div>
                 </div>
               </div>
@@ -42,13 +42,13 @@ export default function Bollywood() {
             <div className=" mb-3">
               <div className="row no-gutters">
                 <div className="col-md-4">
-                  <img src="https://imgeng.jagran.com/images/2022/dec/Cirkus-Cast-Fees1672112822513_m.jpg" class="card-img abcde" alt="..." />
+                  <img src="https://imgeng.jagran.com/images/2022/dec/Cirkus-Cast-Fees1672112822513_m.jpg" className="card-img abcde" alt="..." />
                 </div>
                 <div className="col-md-8">
                   <div className="card-body">
                     <h5 className="card-title">Cirkus: Whopping Fees Charged By Ranveer Singh, Jacqueline Fernandez, Pooja Hegde And Others Will Blow Your Mind</h5>
                     <p className="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                    <p className="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                    <p className="card-text"><small className="text-muted">Last updated 3 mins ago</small></p>
                   </div>
                 </div>
               </div>
@@ -77,7 +77,7 @@ export default function Bollywood() {
                   <div className="card-body">
                     <h5 className="card-title">Arjun Kapoor Reveals Why He Could Not Join Malaika Arora For Christmas Celebrations| See Post</h5>
                     <p className="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                    <p className="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                    <p className="card-text"><small className="text-muted">Last updated 3 mins ago</small></p>
                   </div>
                 </div>
               </div>

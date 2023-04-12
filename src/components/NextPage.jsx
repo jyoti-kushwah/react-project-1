@@ -8,7 +8,7 @@ const NextPage = () => {
                     <span className='h1 siren'>Siren</span>
                 </div>
 
-                <div className="right-btn"><button type="button" class="btn btn-dark">Get Started</button></div>
+                <div className="right-btn"><button type="button" className="btn btn-dark">Get Started</button></div>
             </div>
             <hr />
             <div className="container">

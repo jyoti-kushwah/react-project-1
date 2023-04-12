@@ -16,10 +16,10 @@ const Technology = () =>{
                   <img src="https://images.indianexpress.com/2022/12/top-five-tech-trends-2022.jpg" className="card-img abcde" alt="..." />
                 </div>
                 <div className="col-md-8">
-                  <div class="card-body">
-                    <h5 class="card-title">Wordle, ChatGPT and the collapse of cryptocurrency: The biggest tech trends of 2022</h5>
-                    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                    <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                  <div className="card-body">
+                    <h5 className="card-title">Wordle, ChatGPT and the collapse of cryptocurrency: The biggest tech trends of 2022</h5>
+                    <p className="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                    <p className="card-text"><small className="text-muted">Last updated 3 mins ago</small></p>
                   </div>
                 </div>
               </div>
@@ -34,7 +34,7 @@ const Technology = () =>{
                   <div className="card-body">
                     <h5 className="card-title">Apple’s Medications Reminder to Fitbit Sense 2’s body response sensor, the overlooked tech features of 2022</h5>
                     <p className="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                    <p className="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                    <p className="card-text"><small className="text-muted">Last updated 3 mins ago</small></p>
                   </div>
                 </div>
               </div>
@@ -43,13 +43,13 @@ const Technology = () =>{
             <div className=" mb-3">
               <div className="row no-gutters">
                 <div className="col-md-4">
-                  <img src="https://images.indianexpress.com/2022/12/2023-apps-collage1.jpg" class="card-img abcde" alt="..." />
+                  <img src="https://images.indianexpress.com/2022/12/2023-apps-collage1.jpg" className="card-img abcde" alt="..." />
                 </div>
                 <div className="col-md-8">
                   <div className="card-body">
                     <h5 className="card-title">New Year 2023: The Android apps to help you gain control over your digital life</h5>
                     <p className="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                    <p className="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                    <p className="card-text"><small className="text-muted">Last updated 3 mins ago</small></p>
                   </div>
                 </div>
               </div>
@@ -78,7 +78,7 @@ const Technology = () =>{
                   <div className="card-body">
                     <h5 className="card-title">Google To Increase Individual Workspace Storage From 15GB To 1 TB Soon; To..</h5>
                     <p className="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                    <p className="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                    <p className="card-text"><small className="text-muted">Last updated 3 mins ago</small></p>
                   </div>
                 </div>
               </div>
@@ -92,7 +92,7 @@ const Technology = () =>{
                 <div className="col-md-8">
                   <div className="card-body">
                     <h5 className="card-title">Samsung May Launch Galaxy S23 Series In First Week Of February 2023</h5>
-                    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                    <p className="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
                     <p className="card-text"><small className="text-muted">Last updated 3 mins ago</small></p>
                   </div>
                 </div>

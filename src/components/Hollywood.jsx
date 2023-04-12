@@ -22,10 +22,10 @@ export default function Hollywood() {
                   <img src="https://images.indianexpress.com/2022/12/Top-Gun-Maverick-1.jpg" className="card-img abcde" alt="..." />
                 </div>
                 <div className="col-md-8">
-                  <div class="card-body">
-                    <h5 class="card-title">Tom Cruise starrer Top Gun: Maverick is now available for streaming</h5>
-                    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                    <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                  <div className="card-body">
+                    <h5 className="card-title">Tom Cruise starrer Top Gun: Maverick is now available for streaming</h5>
+                    <p className="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                    <p className="card-text"><small className="text-muted">Last updated 3 mins ago</small></p>
                   </div>
                 </div>
               </div>
@@ -40,7 +40,7 @@ export default function Hollywood() {
                   <div className="card-body">
                     <h5 className="card-title">Kate Hudson Says She Sees Nepotism in Other Industries “Way More Than I See It in Hollywood”</h5>
                     <p className="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                    <p className="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                    <p className="card-text"><small className="text-muted">Last updated 3 mins ago</small></p>
                   </div>
                 </div>
               </div>
@@ -55,7 +55,7 @@ export default function Hollywood() {
                   <div className="card-body">
                     <h5 className="card-title">‘Glass Onion’ Director Rian Johnson Says He’s “Pissed Off” to Have ‘Knives Out’ in the Title</h5>
                     <p className="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                    <p className="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                    <p className="card-text"><small className="text-muted">Last updated 3 mins ago</small></p>
                   </div>
                 </div>
               </div>
@@ -84,7 +84,7 @@ export default function Hollywood() {
                   <div className="card-body">
                     <h5 className="card-title">Most Anticipated Movie Releases of 2023</h5>
                     <p className="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                    <p className="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                    <p className="card-text"><small className="text-muted">Last updated 3 mins ago</small></p>
                   </div>
                 </div>
               </div>
@@ -98,7 +98,7 @@ export default function Hollywood() {
                 <div className="col-md-8">
                   <div className="card-body">
                     <h5 className="card-title">MrBeast Scores Hans Zimmer to Soundtrack Latest YouTube Video</h5>
-                    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                    <p className="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
                     <p className="card-text"><small className="text-muted">Last updated 3 mins ago</small></p>
                   </div>
                 </div>

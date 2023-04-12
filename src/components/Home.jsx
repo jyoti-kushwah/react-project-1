@@ -73,62 +73,62 @@ class Home extends Component {
                 <div className="container">
                     <div className="row">
                         <h1 style={{ marginBottom: '3%' }}><span style={{ borderBottom: '2px solid red' }}>Latest</span> Articles</h1>
-                        <div class="col-md-8">
-                            <div class=" mb-3">
-                                <div class="row no-gutters">
-                                    <div class="col-md-4">
-                                        <img src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832__480.jpg" class="card-img abcde" alt="..." />
+                        <div className="col-md-8">
+                            <div className=" mb-3">
+                                <div className="row no-gutters">
+                                    <div className="col-md-4">
+                                        <img src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832__480.jpg" className="card-img abcde" alt="..." />
                                     </div>
-                                    <div class="col-md-8">
-                                        <div class="card-body">
-                                            <h5 class="card-title">Card title</h5>
-                                            <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                                            <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                                    <div className="col-md-8">
+                                        <div className="card-body">
+                                            <h5 className="card-title">Card title</h5>
+                                            <p className="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                                            <p className="card-text"><small className="text-muted">Last updated 3 mins ago</small></p>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                             <hr />
-                            <div class=" mb-3">
-                                <div class="row no-gutters">
-                                    <div class="col-md-4">
-                                        <img src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832__480.jpg" class="card-img abcde" alt="..." />
+                            <div className=" mb-3">
+                                <div className="row no-gutters">
+                                    <div className="col-md-4">
+                                        <img src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832__480.jpg" className="card-img abcde" alt="..." />
                                     </div>
-                                    <div class="col-md-8">
-                                        <div class="card-body">
-                                            <h5 class="card-title">Card title</h5>
-                                            <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                                            <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                                    <div className="col-md-8">
+                                        <div className="card-body">
+                                            <h5 className="card-title">Card title</h5>
+                                            <p className="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                                            <p className="card-text"><small className="text-muted">Last updated 3 mins ago</small></p>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                             <hr />
-                            <div class=" mb-3">
-                                <div class="row no-gutters">
-                                    <div class="col-md-4">
-                                        <img src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832__480.jpg" class="card-img abcde" alt="..." />
+                            <div className=" mb-3">
+                                <div className="row no-gutters">
+                                    <div className="col-md-4">
+                                        <img src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832__480.jpg" className="card-img abcde" alt="..." />
                                     </div>
-                                    <div class="col-md-8">
-                                        <div class="card-body">
-                                            <h5 class="card-title">Card title</h5>
-                                            <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                                            <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                                    <div className="col-md-8">
+                                        <div className="card-body">
+                                            <h5 className="card-title">Card title</h5>
+                                            <p className="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                                            <p className="card-text"><small className="text-muted">Last updated 3 mins ago</small></p>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                             <hr />
-                            <div class=" mb-3">
-                                <div class="row no-gutters">
-                                    <div class="col-md-4">
-                                        <img src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832__480.jpg" class="card-img abcde" alt="..." />
+                            <div className=" mb-3">
+                                <div className="row no-gutters">
+                                    <div className="col-md-4">
+                                        <img src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832__480.jpg" className="card-img abcde" alt="..." />
                                     </div>
-                                    <div class="col-md-8">
-                                        <div class="card-body">
-                                            <h5 class="card-title">Card title</h5>
-                                            <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                                            <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                                    <div className="col-md-8">
+                                        <div className="card-body">
+                                            <h5 className="card-title">Card title</h5>
+                                            <p className="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                                            <p className="card-text"><small className="text-muted">Last updated 3 mins ago</small></p>
                                         </div>
                                     </div>
                                 </div>
@@ -140,10 +140,10 @@ class Home extends Component {
                             <h4 className='adver'>Advertisement</h4>
                             <div className="div">
                                 <h1><span style={{ borderBottom: '2px solid red' }}>Top</span> Posts</h1>
-                                <div class="">
-                                    <img src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832__480.jpg" class="card-img abcde" alt="..." />
+                                <div className="">
+                                    <img src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832__480.jpg" className="card-img abcde" alt="..." />
                                     <h4>Catch wave with an Advanture Guide</h4>
-                                    <p class="card-text"><small class="text-muted">Travel / Aug 21 2017</small></p>
+                                    <p className="card-text"><small className="text-muted">Travel / Aug 21 2017</small></p>
                                     <hr />
                                 </div>
                             </div>

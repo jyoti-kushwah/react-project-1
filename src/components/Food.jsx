@@ -22,11 +22,11 @@ export default function Food() {
                   <img src="https://images.unsplash.com/photo-1512621776951-a57141f2eefd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60" className="card-img abcde" alt="..." />
                 </div>
                 <div className="col-md-8">
-                  <div class="card-body">
-                    <h5 class="card-title">5 healthy food & lifestyle rules to safeguard eyesight during diabetes
+                  <div className="card-body">
+                    <h5 className="card-title">5 healthy food & lifestyle rules to safeguard eyesight during diabetes
 </h5>
-                    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                    <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                    <p className="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                    <p className="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
                   </div>
                 </div>
               </div>
@@ -41,7 +41,7 @@ export default function Food() {
                   <div className="card-body">
                     <h5 className="card-title">Expert suggests 3 best plant-based protein sources for vegans</h5>
                     <p className="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                    <p className="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                    <p className="card-text"><small className="text-muted">Last updated 3 mins ago</small></p>
                   </div>
                 </div>
               </div>
@@ -56,7 +56,7 @@ export default function Food() {
                   <div className="card-body">
                     <h5 className="card-title">Card title</h5>
                     <p className="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                    <p className="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                    <p className="card-text"><small className="text-muted">Last updated 3 mins ago</small></p>
                   </div>
                 </div>
               </div>
@@ -85,7 +85,7 @@ export default function Food() {
                   <div className="card-body">
                     <h5 className="card-title">Card title</h5>
                     <p className="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                    <p className="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                    <p className="card-text"><small className="text-muted">Last updated 3 mins ago</small></p>
                   </div>
                 </div>
               </div>
