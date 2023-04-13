@@ -174,9 +174,7 @@ export default function Hollywood() {
               </div>
             </div>
             <h4 className='adver'>Advertisement</h4>
-
-
-            <hr />
+<hr />
           </div>
         </div>
       </div>
