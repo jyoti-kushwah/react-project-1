@@ -138,7 +138,7 @@ export default function Bollywood() {
                   </div>
                 </div>
               </div>
-            </div>
+           </div>
             <div className=" mb-3">
               <div className="row no-gutters">
                 <div className="col-md-4">
