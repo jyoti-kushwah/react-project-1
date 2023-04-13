@@ -36,7 +36,7 @@ class Home extends Component {
                         <div className="col-md-4 card4">
                             <Link to="/NextPage">
                                 <div className="card">
-                                    <img className="card-img-top" src="https://media.istockphoto.com/id/1354441996/photo/image-of-open-antique-book-on-wooden-table-with-glitter-overlay.jpg?b=1&s=170667a&w=0&k=20&c=O_VZbgONe4WTXPOEvwKYezhqFkzAXpr2g-lCdpdj5FU=" alt="Card image cap" />
+                                    <img className="card-img-top" src="https://media.istockphoto.com/id/1354441996/photo/image-of-open-antique-book-on-wooden-table-with-glitter-overlay.jpg?b=1&s=170667a&w=0&k=20&c=O_VZbgONe4WTXPOEvwKYezhqFkzAXpr2g-lCdpdj5FU=" alt="error" />
                                     <div className="card-body">
                                         <h4 >Joshua Tree Overnight Adventure</h4>
                                         <p className="card-text" style={{ textDecoration: 'none' }}>Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -48,7 +48,7 @@ class Home extends Component {
 
                         <div className="col-md-4 card4">
                             <div className="card">
-                                <img className="card-img-top" src="https://media.istockphoto.com/id/1354441996/photo/image-of-open-antique-book-on-wooden-table-with-glitter-overlay.jpg?b=1&s=170667a&w=0&k=20&c=O_VZbgONe4WTXPOEvwKYezhqFkzAXpr2g-lCdpdj5FU=" alt="Card image cap" />
+                                <img className="card-img-top" src="https://media.istockphoto.com/id/1354441996/photo/image-of-open-antique-book-on-wooden-table-with-glitter-overlay.jpg?b=1&s=170667a&w=0&k=20&c=O_VZbgONe4WTXPOEvwKYezhqFkzAXpr2g-lCdpdj5FU=" alt="error" />
                                 <div className="card-body">
                                     <h4>Joshua Tree Overnight Adventure</h4>
                                     <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -58,7 +58,7 @@ class Home extends Component {
                         </div>
                         <div className="col-md-4 card4">
                             <div className="card">
-                                <img className="card-img-top" src="https://media.istockphoto.com/id/1354441996/photo/image-of-open-antique-book-on-wooden-table-with-glitter-overlay.jpg?b=1&s=170667a&w=0&k=20&c=O_VZbgONe4WTXPOEvwKYezhqFkzAXpr2g-lCdpdj5FU=" alt="Card image cap" />
+                                <img className="card-img-top" src="https://media.istockphoto.com/id/1354441996/photo/image-of-open-antique-book-on-wooden-table-with-glitter-overlay.jpg?b=1&s=170667a&w=0&k=20&c=O_VZbgONe4WTXPOEvwKYezhqFkzAXpr2g-lCdpdj5FU=" alt="error" />
                                 <div className="card-body">
                                     <h4>Joshua Tree Overnight Adventure</h4>
                                     <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
